@@ -10,19 +10,19 @@ Project 1: [22,27,16,2,18,6] -> Insertion Sort.
 
 2.	Big-O notation illustarition: 
 
-Best Case: O(n)
+	Best Case: O(n)
 
-Average Case: O(n^2)
+	Average Case: O(n^2)
 
-Worst Case: O(n^2)
+	Worst Case: O(n^2)
 
 3.	Time Complexity: 
 
-Average case: [22,27,2,16,18,6]
+	Average case: [22,27,2,16,18,6]
 
-Worst case:  [27,22,18,16,6,2]
+	Worst case:  [27,22,18,16,6,2]
 
-Best case:    [2,6,16,18,22,27]
+	Best case:    [2,6,16,18,22,27]
 
 4.	The case of number ’18’ during the finel stage of sort: Average Case.
 
@@ -38,17 +38,17 @@ Best case:    [2,6,16,18,22,27]
 	
 Project 2: [16,21,11,8,12,22] -> Merge Sort
 
-[16,21,11]  [8,12,22] 
+	[16,21,11]  [8,12,22] 
 
-[16] [21,11]   [8,12] [22]
+	[16] [21,11]   [8,12] [22]
 
-[6] [21] [11]   [8] [12] [22]
+	[6] [21] [11]   [8] [12] [22]
 
-[16] [11,21]  [8,12] [22]
+	[16] [11,21]  [8,12] [22]
 
-[11,16,21]  [8,12,22]
+	[11,16,21]  [8,12,22]
 
-[8,11,12,16,21,22]
+	[8,11,12,16,21,22]
 
 
 

@@ -52,7 +52,7 @@ Project 2: [16,21,11,8,12,22] -> Merge Sort
 
 
 
-Project 3: [22,27,16,2,18,6] -> Insertion Sort
+Project 3: [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -> Insertion Sort
 
 				6
 			5		7
